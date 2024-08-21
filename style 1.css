@@ -1,0 +1,18 @@
+.First{
+    background-color: red;
+    font-size: 32px;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+  
+
+}
+.Second{
+    background-color: green;
+    color: white;
+    font-size: 18px;
+}
+.Third{
+    background-color: orange;
+    font-size: 18px;
+}
